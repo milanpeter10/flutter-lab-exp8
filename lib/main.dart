@@ -5,9 +5,9 @@ import 'book_search_screen.dart';
 import 'firebase_options.dart';
 
 // Palette: espresso leather, parchment pages, brass details
-const Color kEspresso = Color(0xFF3B2A20);
+const Color kEspresso = Color(0xFF1F2A44);
 const Color kParchment = Color(0xFFF5EBD7);
-const Color kBrass = Color(0xFFB8860B);
+const Color kBrass = Color(0xFF8E2C48);
 const Color kPaper = Color(0xFFFFFAF0);
 const Color kMuted = Color(0xFF8B7766);
 

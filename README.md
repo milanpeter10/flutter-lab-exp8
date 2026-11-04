@@ -131,3 +131,6 @@ python tool/e2e_chrome_test.py screenshots
 The Flutter application successfully retrieves book details from Google Firestore
 based on the entered title, shows a red warning when all copies are issued, and
 displays "Book not found" when no book matches.
+
+## UI refresh
+Updated the colour palette / accent theme for a fresh look.
